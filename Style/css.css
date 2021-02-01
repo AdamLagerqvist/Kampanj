@@ -1,0 +1,40 @@
+.rubrik {
+    font-size: 7rem;
+    text-align: center;
+    margin: 0;
+}
+
+body{
+    font-family: 'Exo 2', sans-serif;
+    background-color: rgba(20, 33, 61, 1);
+    color: rgba(225, 225, 225, 1);
+    margin: 0;
+}
+
+main {
+    width: 75%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+p {
+    font-size: 1.8rem;
+    font-weight: 300;
+}
+
+.Earth{
+    height: 18rem;
+    width: auto;
+}
+
+.Mars {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.Mars2 {
+    height: 15rem;
+    width: auto;
+    margin: 2rem;
+}
+
