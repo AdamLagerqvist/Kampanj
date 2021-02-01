@@ -1,7 +1,13 @@
 .rubrik {
-    font-size: 7rem;
+    font-size: 7.8vw;
     text-align: center;
     margin: 0;
+}
+
+.diagram{
+    width: 20vw;
+    margin-top: 4vw;
+    float: right;
 }
 
 body{
@@ -11,30 +17,63 @@ body{
     margin: 0;
 }
 
+.more-margin-top {
+    margin-top: 4vw;
+}
+
 main {
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
     padding: 1rem;
 }
 
 p {
-    font-size: 1.8rem;
+    font-size: 1.8vw;
     font-weight: 300;
+    margin-top: 2vw;
+}
+
+h2 {
+    font-size: 2.3vw;
+    font-weight: 700;
+    margin-top: 2vw;
+    color: rgb(167, 167, 167);
+}
+
+em {
+    font-size: 2.4vw;
+    font-weight: 900;
+    margin-top: 4vw;
+    color: rgb(167, 167, 167);
 }
 
 .Earth{
-    height: 18rem;
+    height: 19vw;
     width: auto;
 }
 
 .Mars {
     display: flex;
-    flex-direction: row-reverse;
 }
 
 .Mars2 {
-    height: 15rem;
+    height: 16vw;
     width: auto;
-    margin: 2rem;
+    margin: 2vw;
+    margin-bottom: 0;
 }
 
+.column {
+    display: flex;
+    width: 100%;
+    flex-direction: row-reverse;
+}
+
+.arrow {
+    height: 10%;
+    align-self: flex-end;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
