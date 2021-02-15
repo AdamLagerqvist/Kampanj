@@ -16,22 +16,16 @@ Jag valde att ha en design som endast använde sig av en sida där man scrollar 
 
 ![Desktop_demonstration](https://github.com/AdamLagerqvist/Campanj/blob/main/imgs/Document%20-%20Google%20Chrome%202021-02-15%2010_39_28%20(2).png)
 
-För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, länka dem med url eller filnamnet.
-
-```
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-```
-
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
+Jag har lärt mig mycket av att försöka mobilanpassa hemsidan.
+Jag tycker designen blev bra utifrån både ett estetiskt perspectiv men också ett användarvänlighets perspectiv.
 
 ## Negativa erfarenheter
 
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Även fast jag lärt mig mycket har jag tyckt det har vargigt svårt att mobilanpassa hemsidan och slut produkten kunde ha blivigt bättre.
+Jag ska aldirg mer använda possition absolut
 
 ## Sammanfattning
 
-Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
-Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+Jag tycker upgifts upplägget har varigt bra och det har varigt roligt att arbeta på kampanjen. Jag tycker också att projektet har varigt lyckat även fast man kan önska sig mer av slutprodukten eftersom jag lärt mig mycket om hur man moblianpassar något och målet med uppgiften var all lära sig något inte att få den bästa slutprodukten. 
