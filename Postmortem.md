@@ -14,7 +14,7 @@ I slutändan landade vi i en kampanj som handlade om hur vi måste öka finansie
 
 Jag valde att ha en design som endast använde sig av en sida där man scrollar ner för att få informationen, Detta gjorde jag eftersom att jag tycker det är väldigt typiskt för sådanna här informationskampanjer. Min sida har också ett morkare rymdaktigt färgshema som även tilltalar våran målgrup med planteter i bakgrunden för att värkligen sälja rymd temat. Nu när jag var klar med utseendet av hemsidan ville jag gör den responsiv detta var det som skulle ta det mesta av projektets tid.
 
-![Desktop demonstration](imgs/Document - Google Chrome 2021-02-15 10_39_28 (2).png)
+![Desktop demonstration](/imgs/Document - Google Chrome 2021-02-15 10_39_28 (2).png)
 
 För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, länka dem med url eller filnamnet.
 
